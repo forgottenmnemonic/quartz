@@ -1,6 +1,5 @@
 ---
-title: Welcome to Fricking Quartz
+title: Quartz
 ---
 
-This is a blank Shartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Here are some things I want to be able to reference.
