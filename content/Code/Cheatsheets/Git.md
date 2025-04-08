@@ -16,8 +16,10 @@ Here is a simple cheat sheet for some of the most common Git and GitHub commands
 14. Make a temporary change without committing it: `git stash` (to save the changes), `git stash apply` (to apply them later) or `git stash pop` (to both apply and delete the stashed changes).
 15. Undo your last commit: `git reset HEAD~1` (this will remove the last commit but keep the changes in the working directory) or `git reset <commit-hash>` (to go back to a specific commit).
 
-Updating Repository
-git add .
-git commit -m "comment"
-git branch -M main
-git push -u origin main
+Updating Repository  
+git add .  
+git commit -m "comment"  
+git branch -M main  
+git push -u origin main  
+
+Merge
