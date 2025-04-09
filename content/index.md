@@ -1,5 +1,6 @@
 ---
-title: Quartz
+title: Homepage
 ---
 
-My shit
+My name is John and here is some shit  
+Is this a new line?
