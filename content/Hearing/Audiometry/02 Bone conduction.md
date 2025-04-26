@@ -23,10 +23,10 @@ Deliver narrowband masking noise to the NTE when the difference between the meas
 
 Initial Amount of Masking in NTE = AC$_N$$_T$$_E$ + 10 dB + OE
 
-Initial Amount of Masking in NTE for 500Hz = AC$_N$$_T$$_E$ + 10 dB + 15 dB = AC$_N$$_T$$_E$ +25 dB
-Initial Amount of Masking in NTE for 1000Hz = AC$_N$$_T$$_E$ + 10 dB + 10 dB = AC$_N$$_T$$_E$ +20 dB
-Initial Amount of Masking in NTE for 2000Hz = AC$_N$$_T$$_E$ + 10 dB + 0 dB = AC$_N$$_T$$_E$ +15 dB
-Initial Amount of Masking in NTE for 4000Hz = AC$_N$$_T$$_E$ + 10 dB + 0 dB = AC$_N$$_T$$_E$ +15 dB
+Initial Amount of Masking in NTE for 500Hz = AC<sub>NTE</sub> + 10 dB + 15 dB = AC<sub>NTE</sub> +25 dB
+Initial Amount of Masking in NTE for 1000Hz = AC<sub>NTE</sub> + 10 dB + 10 dB = AC<sub>NTE</sub> +20 dB
+Initial Amount of Masking in NTE for 2000Hz = AC<sub>NTE</sub> + 10 dB + 0 dB = AC<sub>NTE</sub> +15 dB
+Initial Amount of Masking in NTE for 4000Hz = AC<sub>NTE</sub> + 10 dB + 0 dB = AC<sub>NTE</sub> +15 dB
 
 ## Occlusion Effect
 # Table 8-3. Occlusion Effect
