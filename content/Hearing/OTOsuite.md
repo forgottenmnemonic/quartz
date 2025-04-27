@@ -47,4 +47,6 @@ date: 2025-04-21
 | F10             | Manual entry mode                |
 | F11             | Toggle navigator                 |
 | F12             | Toggle control panel             |
+| CTRL + P        | Print                            |
+| CTRL + S        | Save                             |
 ## Real ear 
