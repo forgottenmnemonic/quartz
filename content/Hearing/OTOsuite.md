@@ -24,9 +24,9 @@ date: 2025-04-21
 | S               | Mark                             |
 | R               | Right ear                        |
 | L               | Left ear                         |
-| M               | Mask                             |
+| M               | Press to toggle masking noise    |
 | Shift + ↑ / ↓   | Masking level up/down            |
-| ALT             | Present masking noise            |
+| ALT             | Hold to present masking noise    |
 | Ctrl + Z        | Undo                             |
 | Ctrl + Y        | Redo                             |
 | 1               | Tone                             |
