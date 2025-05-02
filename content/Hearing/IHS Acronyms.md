@@ -82,7 +82,7 @@ HHIE - Hearing Handicap Inventory for Elderly
 HHIE-S - Hearing Handicap Inventory for the Elderly, Screening  
 HHIE-SP - Hearing Handicap for the Elderly, Spouse  
 HINT - Hearing in Noise Test  
-HIPAA - Health Insurance Portability and Accountability Act  
+HIPAA - Health Insurance Portability and Accountability Act 
 HIT - Hearing Aid Test (box)  
 HITECH - Health Information Technology for Economic and Clinical Health  
 HL - Hearing Level  
