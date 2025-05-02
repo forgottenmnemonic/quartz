@@ -13,3 +13,6 @@ My name is John and here is some shit
 [[01 Pure tone testing|Pure Tone Testing]]  
 [[02 Bone conduction|Bone Conduction]]   
 [[03 Speech Testing|Speech Testing]]   
+
+## Textbook
+[[Chapter 9]]
