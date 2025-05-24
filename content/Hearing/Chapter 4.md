@@ -48,4 +48,22 @@ Decibels Hearing Level: represents the average softest intensity level that indi
 Acoustic combination of several different pure tones presented simultaneously.  
 
 ## Reflection
+Sound that is reflected or bounced around by hard surfaces in the environment. Two types are reverberations and echoes.  
 
+## dB SPL
+Decibels Sound Pressure Level: The objective strength of a sound's output not related to any individual's hearing.  
+
+## Resonance
+The natural tendency for an object to vibrate with greater amplitude at one frequency than at others when a driving force is applied.  
+
+## dB SL reference
+The patient's threshold
+
+## dB SL
+Decibels Sensation Level: Sensation level above the patient's threshold. If threshold at 1000 Hz is 20 dB HL and a tone is presented at 40 dB HL, that person is getting a presentation of 20 dB SL.  
+
+## Period
+The time required for one complete cycle of compression and rarafaction.  
+
+## Decibel (dB)
+Logarithmic scale used to denote the intensity of a sound.  

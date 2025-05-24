@@ -25,8 +25,8 @@ Initial Amount of Masking in NTE = AC<sub>NTE</sub> + 10 dB + OE
 
 Initial Amount of Masking in NTE for 500Hz = AC<sub>NTE</sub> + 10 dB + 15 dB = AC<sub>NTE</sub> +25 dB  
 Initial Amount of Masking in NTE for 1000Hz = AC<sub>NTE</sub> + 10 dB + 10 dB = AC<sub>NTE</sub> +20 dB  
-Initial Amount of Masking in NTE for 2000Hz = AC<sub>NTE</sub> + 10 dB + 0 dB = AC<sub>NTE</sub> +15 dB  
-Initial Amount of Masking in NTE for 4000Hz = AC<sub>NTE</sub> + 10 dB + 0 dB = AC<sub>NTE</sub> +15 dB  
+Initial Amount of Masking in NTE for 2000Hz = AC<sub>NTE</sub> + 10 dB + 0 dB = AC<sub>NTE</sub> +10 dB  
+Initial Amount of Masking in NTE for 4000Hz = AC<sub>NTE</sub> + 10 dB + 0 dB = AC<sub>NTE</sub> +10 dB  
 
 ## Occlusion Effect
 textbook pg 153
